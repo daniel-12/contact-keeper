@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://danidilo:<password>@contactkeeper-dtrpd.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://danidilo:snowden205@contactkeeper-dtrpd.mongodb.net/test?retryWrites=true&w=majority"
 }
