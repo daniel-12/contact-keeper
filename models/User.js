@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+// UserSchema is like a component; a template.
+
 const UserSchema = mongoose.Schema({
     name: {
         type: String,
@@ -10,7 +12,7 @@ const UserSchema = mongoose.Schema({
         required: true,
         unique: true
     },
-        password: {
+    password: {
         type: String,
         required: true
     },
